@@ -1,0 +1,36 @@
+html {
+  height: 0px;
+  width: 0px;
+}
+
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.img-cabecalho {
+  width: 100%;
+  position: absolute;
+  border-radius: 10%;
+}
+
+.grid {
+  display: flex;
+
+  top: 3rem;
+}
+
+#img1,
+#img2,
+#img3,
+#img4,
+#img5,
+#img6 {
+}
+.container {
+  background-color: #003c90;
+  position: absolute;
+  height: 150vh;
+  width: 70%;
+  left: 15%;
+  height: 1%;
+}
