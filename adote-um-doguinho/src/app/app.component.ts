@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   <app-pages></app-pages>
   <router-outlet></router-outlet>
   `,
-  styleUrls: ['app.component.css']
+  styleUrls: ['../app/pages/pages.component.css']
 })
 export class AppComponent {
 
